@@ -1,5 +1,5 @@
 # Machine-Learning
-Contains all of my machine learning projects -- also published on Kaggle. 
+Contains all of my machine learning projects ranging from computer vision to data analytics -- also published on Kaggle @ Tenzin Migmar
 
 ### Summary of Contents 
 
